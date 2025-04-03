@@ -22,7 +22,7 @@ pip install pypdf
 ## Usage
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/FlanT5-PDFChat.git
+   git clone https://github.com/Myusuf121/FlanT5-PDFChat.git
    cd FlanT5-PDFChat
    ```
 
